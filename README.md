@@ -1,6 +1,6 @@
 # Plush Phone 
 
-Bekezdés.
+Link: https://david9229.github.io/telefon-oldal/
 
 
 
@@ -8,10 +8,9 @@ Bekezdés.
 
 Felhasználótípusok:
 
-- rosszul informált felhasználó
-- prémium felhasználó
-- tech-geek
-
+ - rosszul informált felhasználó
+ - prémium felhasználó
+ - tech-geek
 
 ```
 Mint prémium felhasználó
