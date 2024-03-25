@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net" modified="2024-03-25T10:27:41.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4lToKDOdYdg9FO9vKk0j" version="24.1.0" type="device">
+  <diagram name="1 oldal" id="iBilspwUFqvcRrvfKBuB">
+    <mxGraphModel dx="1822" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-1" value="g" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="870" height="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XsLAN94B-LFSsUaeu0kL-1" target="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-13" value="Navbar" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#181819;align=left;spacing=15;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry y="110" width="860" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-14" value="Home" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#181819;align=center;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-13">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="70" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-15" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-13">
+          <mxGeometry width="50" height="40" relative="1" as="geometry">
+            <mxPoint x="140" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-21" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-13">
+          <mxGeometry x="190" y="10" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-22" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-13">
+          <mxGeometry x="240" y="10" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-24" value="Flagship phone kép" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry y="200" width="860" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-25" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-24">
+          <mxGeometry x="1" y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="-50" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-26" value="" style="flipH=1;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-24">
+          <mxGeometry y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="43" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-27" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-24">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="-50" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-28" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-24">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="-15" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-29" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-24">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="20" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-30" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Flagship phone neve&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Flagship phone tagline" style="html=1;shadow=0;strokeColor=none;fillColor=none;resizeWidth=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-24">
+          <mxGeometry y="1" width="860.0000000000001" height="60" relative="1" as="geometry">
+            <mxPoint y="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="40.2" y="820" width="184.8" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-32" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="105" y="840" width="50.4" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-33" value="&lt;b&gt;Telefon neve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="100.20000000000005" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-34" value="Tagline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="100.19999999999997" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-35" value="$999" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="59" y="1008.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-36" value="Pay now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="130" y="1013.5" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-37" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="105" y="1022.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-38" value="jellemzők&lt;div&gt;táblázat&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="72.6" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="335" y="820" width="184.8" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-40" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="402.2" y="840" width="50.4" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-41" value="&lt;b&gt;Telefon neve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="397.40000000000003" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-42" value="Tagline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="397.4" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-43" value="$999" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="356.2" y="1008.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-44" value="Pay now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="427.2" y="1013.5" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-45" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="402.2" y="1022.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-46" value="jellemzők&lt;div&gt;táblázat&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="369.79999999999995" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="635" y="820" width="184.8" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-48" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="699.8" y="840" width="50.4" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-49" value="&lt;b&gt;Telefon neve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="695" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-50" value="Tagline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="695" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-51" value="$999" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="653.8" y="1008.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-52" value="Pay now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="724.8" y="1013.5" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-53" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="699.8" y="1022.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-54" value="jellemzők&lt;div&gt;táblázat&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="667.4" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-55" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="105" y="550" width="121" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-56" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="240.5" y="550" width="121" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-57" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="371.7" y="550" width="121" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-58" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="503.4" y="550" width="121" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-59" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="636" y="550" width="121" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-62" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-1">
+          <mxGeometry x="270" y="1540" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-63" value="Link" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-62">
+          <mxGeometry width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-64" value="Link" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-62">
+          <mxGeometry x="75" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-65" value="Link" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-62">
+          <mxGeometry x="150" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-66" value="Link" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsLAN94B-LFSsUaeu0kL-62">
+          <mxGeometry x="225" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1330" width="680" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XsLAN94B-LFSsUaeu0kL-61" value="Vásárlásra való felszólítás, kép, szöveg, buy now button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1360" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
