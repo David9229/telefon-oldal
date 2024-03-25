@@ -3,13 +3,15 @@
 Bekezdés.
 
 
+
 ## Felhasználói történetek
 
 Felhasználótípusok:
 
--rosszul informált felhasználó
--prémium felhasználó
--tech-geek
+- rosszul informált felhasználó
+- prémium felhasználó
+- tech-geek
+
 
 ```
 Mint prémium felhasználó
